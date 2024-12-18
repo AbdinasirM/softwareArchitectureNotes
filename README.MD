@@ -1,0 +1,3 @@
+### README.md
+
+This repository provides detailed notes and explanations on various software architecture and design patterns. It covers popular patterns like **Model-View-Controller (MVC)**, **Microservices**, **Event Sourcing**, **Layered Architecture**, and more. Each note includes a clear description, advantages, disadvantages, real-world use cases, and helpful diagrams to simplify understanding. Ideal for beginners and professionals looking to strengthen their understanding of architecture principles.
